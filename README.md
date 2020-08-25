@@ -5,3 +5,8 @@ A simple game of PONG. A game made with WinForms to C#. It relies in bouncing th
 ![errorImage](https://github.com/Marcin3232/PongGame/blob/master/examples/1.PNG) ![errorImage](https://github.com/Marcin3232/PongGame/blob/master/examples/2.PNG)
 You must unlock the file in the properties
 ![errorImage](https://github.com/Marcin3232/PongGame/blob/master/examples/3.PNG)
+
+## Sample screenshots from the game
+![errorImage](https://github.com/Marcin3232/PongGame/blob/master/examples/4.PNG)
+![errorImage](https://github.com/Marcin3232/PongGame/blob/master/examples/5.PNG)
+![errorImage](https://github.com/Marcin3232/PongGame/blob/master/examples/6.PNG)
